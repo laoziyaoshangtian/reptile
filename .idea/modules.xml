@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/dangdang.iml" filepath="$PROJECT_DIR$/.idea/dangdang.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mypjt1/.idea/mypjt1.iml" filepath="$PROJECT_DIR$/../mypjt1/.idea/mypjt1.iml" />
+      <module fileurl="file://F:/pycharmAsscess/.idea/pycharmAsscess.iml" filepath="F:/pycharmAsscess/.idea/pycharmAsscess.iml" />
+    </modules>
+  </component>
+</project>
